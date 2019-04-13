@@ -1,0 +1,14 @@
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\bin\Debug\netcoreapp2.1\Server1.deps.json
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\bin\Debug\netcoreapp2.1\Server1.runtimeconfig.json
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\bin\Debug\netcoreapp2.1\Server1.runtimeconfig.dev.json
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\bin\Debug\netcoreapp2.1\Server1.dll
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\bin\Debug\netcoreapp2.1\Server1.pdb
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.csprojAssemblyReference.cache
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.csproj.CoreCompileInputs.cache
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.RazorAssemblyInfo.cache
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.RazorAssemblyInfo.cs
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.AssemblyInfoInputs.cache
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.AssemblyInfo.cs
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.RazorTargetAssemblyInfo.cache
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.dll
+D:\Hungkk\MiniProject\ServeMiniProject\Server1\obj\Debug\netcoreapp2.1\Server1.pdb
